@@ -1,6 +1,6 @@
 package java_leetcode.merge_strings_alternately;
 
-class Solution{
+class MergeStringsAlternate {
     public String mergeAlternately(String word1, String word2) {
         StringBuilder output = new StringBuilder(100);
         int i = 0;
